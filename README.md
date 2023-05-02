@@ -27,6 +27,8 @@ This is a project created using the `create-react-app`. This is a pizza ordering
 
 3. CSS is poorly adapted, but I was focusing specifically on working with react and typescript
 
+4. Pizza search only works where there is pizza
+
 ## Project launch
 
 1. Download the repository on the PC
