@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# React Pizza
+![project-image](https://s391vla.storage.yandex.net/rdisk/22d3e80bbcb6c6e85335aeaab06d653e8dc4433daf941b6d77d32562f088be73/64514ade/Qfv4YOjD7CbxaLs2BtqjvgklFrl9yXpoaLCOcacV0rP-gsm1VQm1A2aa-ByzhT9TS0tOeDgpAvLff6J_OyE_UA==?uid=1758363702&filename=weffwe.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1758363702&fsize=1784778&hid=3d7ba4a2a6395344ede9d4b63dfeb679&media_type=image&tknv=v2&etag=acbf7832af5a92a437ff98f2a4b0e9cf&rtoken=tvZYOX05t0FI&force_default=yes&ycrid=na-7b12c11bc77a8166ef637f4ca271e6c8-downloader17e&ts=5fab96ca1f380&s=f07b7905f0eab0fcc3aa09cae17de15f0970b0ebc2992b230a4ba157b7a86d0b&pb=U2FsdGVkX1_kAXLjs_W4JZeGVRdmWOdA1FP5W27AAP7bc-QpZE8YlvTqTubUBxy3kKmFHPcisBATgzS6Ho35dHF8_LMLAUhmzQSvy3qu5HA)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About project
 
-## Available Scripts
+This is a project created using the `create-react-app`. This is a pizza ordering app (under development).
 
-In the project directory, you can run:
+> **Main stack:** `react`, `redux toolkit`, `typescript`
 
-### `npm start`
+> **Additional technologies:** `react-router-dom`, `axios`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+> The **mockAPI** service is used to host the data
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### Development plans
 
-### `npm test`
+- [ ] Fix the bugs
+- [ ] Make a proper adaptation
+- [ ] Make a normal product card
+- [ ] Make registration 
+- [ ] Make a simple personal account
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Bugs and bugs of which I am aware
 
-### `npm run build`
+1. If you reduce the quantity of an item in the basket, this will not affect the final price, although the value will change in the state
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. If you add the same pizza with different dough or size - it won't show up in the cart in any way
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. CSS is poorly adapted, but I was focusing specifically on working with react and typescript
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Project launch
 
-### `npm run eject`
+1. Download the repository on the PC
+2. You must have the latest version of node.js installed
+3. open the project in the development environment and install the required dependencies using the command
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+#### `npm install`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. Run the project with the command
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+#### `npm start`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+5. If you want to build a project, use the command
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### `npm run build`
