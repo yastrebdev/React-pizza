@@ -5,6 +5,30 @@
 
 This is a project created using the `create-react-app`. This is a pizza ordering app (under development).
 
+> **Main stack:** `react`, `redux toolkit`, `typescript`
+
+> **Additional technologies:** `react-router-dom`, `axios`
+
+> The **mockAPI** service is used to host the data
+
+#### Development plans
+
+- [] Fix the bugs
+- [] Make a proper adaptation
+- [] Make a normal product card
+- [] Make registration 
+- [] Make a simple personal account
+
+#### Bugs and bugs of which I am aware
+
+1. If you reduce the quantity of an item in the basket, this will not affect the final price, although the value will change in the state
+
+2. If you add the same pizza with different dough or size - it won't show up in the cart in any way
+
+3. CSS is poorly adapted, but I was focusing specifically on working with react and typescript
+
+
+
 In the project directory, you can run:
 
 ### `npm start`
