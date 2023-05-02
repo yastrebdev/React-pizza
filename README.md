@@ -13,11 +13,11 @@ This is a project created using the `create-react-app`. This is a pizza ordering
 
 #### Development plans
 
-- [] Fix the bugs
-- [] Make a proper adaptation
-- [] Make a normal product card
-- [] Make registration 
-- [] Make a simple personal account
+- [ ] Fix the bugs
+- [ ] Make a proper adaptation
+- [ ] Make a normal product card
+- [ ] Make registration 
+- [ ] Make a simple personal account
 
 #### Bugs and bugs of which I am aware
 
