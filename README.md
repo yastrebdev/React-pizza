@@ -43,4 +43,4 @@ This is a project created using the `create-react-app`. This is a pizza ordering
 
 #### `npm run build`
 
-To see the finished result, go to - yastrebdev.github.io/
+To see the finished result, [go to](yastrebdev.github.io/)
