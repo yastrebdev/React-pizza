@@ -1,5 +1,5 @@
 # React Pizza
-![project-image](https://s855sas.storage.yandex.net/rdisk/70cecce16242c6b66b4992ffb091aba15a636897a1d627e3e7ddaeb0ab8f66d3/64550ed1/Qfv4YOjD7CbxaLs2BtqjvgklFrl9yXpoaLCOcacV0rP-gsm1VQm1A2aa-ByzhT9TS0tOeDgpAvLff6J_OyE_UA==?uid=1758363702&filename=weffwe.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1758363702&fsize=1784778&hid=3d7ba4a2a6395344ede9d4b63dfeb679&media_type=image&tknv=v2&etag=acbf7832af5a92a437ff98f2a4b0e9cf&rtoken=P8SNX4xy9ldh&force_default=yes&ycrid=na-315df9516d85f44ffb11c5c18ec7ebdb-downloader8f&ts=5faf2e1549640&s=5ecb65f544d992dc7bc30a36f26551dd0280cf4353fc9925fd618020d05af687&pb=U2FsdGVkX1-RjYWLBrp_3dYDik-jJ88sR2QOwkYjjTsUiJ1JMqQwYr4Vwf0Lv8EoHUmhpukHFOAcXbiPcm8M_NZDRR_TUPjonln0Hg1jbEg)
+![project-image](https://lh3.googleusercontent.com/pw/AJFCJaVoKQ7y15jUrk53ZLWN-86BKgNlnLTKsUepX4HckSid86w5yXgWFQXYhwhIRifoPimUr34FbF7QvXApKIu3ig6QwcpdX5jlEvdHyIwr-WDz5-eLXR03By-aMuMn-9ZtNBJz76np2MLbp7gE6eB9-N8=w2550-h960-s-no?authuser=0)
 
 ## About project
 
