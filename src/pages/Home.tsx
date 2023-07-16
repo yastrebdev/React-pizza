@@ -18,6 +18,8 @@ const Home: React.FC = () => {
   const { categoryId, sort, currentPage, searchValue } = useSelector((state: RootState) => state.filter);
   const { items, status } = useSelector((state: RootState) => state.pizza);
 
+  console.log(status)
+
   const onClickCategory = React.useCallback((idx: number) => {
     dispatch(setCategoryId(idx));
   }, []);

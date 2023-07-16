@@ -35,6 +35,7 @@ export const PizzaBlock: React.FC<PizzaBlockProps> = ({ id, title, price, imageU
       count: 0,
     };
     dispatch(addItem(item));
+    console.log(item);
   };
 
   return (
