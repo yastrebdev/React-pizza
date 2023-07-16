@@ -1,5 +1,5 @@
 # React Pizza
-![project-image](https://s391vla.storage.yandex.net/rdisk/22d3e80bbcb6c6e85335aeaab06d653e8dc4433daf941b6d77d32562f088be73/64514ade/Qfv4YOjD7CbxaLs2BtqjvgklFrl9yXpoaLCOcacV0rP-gsm1VQm1A2aa-ByzhT9TS0tOeDgpAvLff6J_OyE_UA==?uid=1758363702&filename=weffwe.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1758363702&fsize=1784778&hid=3d7ba4a2a6395344ede9d4b63dfeb679&media_type=image&tknv=v2&etag=acbf7832af5a92a437ff98f2a4b0e9cf&rtoken=tvZYOX05t0FI&force_default=yes&ycrid=na-7b12c11bc77a8166ef637f4ca271e6c8-downloader17e&ts=5fab96ca1f380&s=f07b7905f0eab0fcc3aa09cae17de15f0970b0ebc2992b230a4ba157b7a86d0b&pb=U2FsdGVkX1_kAXLjs_W4JZeGVRdmWOdA1FP5W27AAP7bc-QpZE8YlvTqTubUBxy3kKmFHPcisBATgzS6Ho35dHF8_LMLAUhmzQSvy3qu5HA)
+![project-image](https://lh3.googleusercontent.com/pw/AJFCJaVoKQ7y15jUrk53ZLWN-86BKgNlnLTKsUepX4HckSid86w5yXgWFQXYhwhIRifoPimUr34FbF7QvXApKIu3ig6QwcpdX5jlEvdHyIwr-WDz5-eLXR03By-aMuMn-9ZtNBJz76np2MLbp7gE6eB9-N8=w2550-h960-s-no?authuser=0)
 
 ## About project
 
@@ -27,6 +27,8 @@ This is a project created using the `create-react-app`. This is a pizza ordering
 
 3. CSS is poorly adapted, but I was focusing specifically on working with react and typescript
 
+4. Pizza search only works where there is pizza
+
 ## Project launch
 
 1. Download the repository on the PC
@@ -42,3 +44,5 @@ This is a project created using the `create-react-app`. This is a pizza ordering
 5. If you want to build a project, use the command
 
 #### `npm run build`
+
+To see the finished result, [go to](https://yastrebdev.github.io/React-pizza/)
